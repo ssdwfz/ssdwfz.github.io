@@ -71,7 +71,7 @@ h1,h2,h3 {padding-top: 6px;}
 	font-size: 1.2em;
 	margin: 0 auto;
 	padding: 0 10px 10px;
-	width: 780px;
+	width: 1480px;
 }
 
 /* header */
@@ -87,7 +87,7 @@ h1,h2,h3 {padding-top: 6px;}
 	height: 150px;
 	margin: 0 auto;
 	padding: 10px 10px 5px;
-	width: 780px;
+	width: 1480px;
 }
 .header .left, .header .right {
 	background: #A4A4A0;
@@ -99,7 +99,7 @@ h1,h2,h3 {padding-top: 6px;}
 	font: normal 2.8em "Trebuchet MS",sans-serif;
 	line-height: 150px;
 	text-align: center;	
-	width: 564px;
+	width: 0px;
 }
 .header .right {
 	overflow: auto;
