@@ -4,7 +4,7 @@ const millisecond = 1
       hour = minute * 60,
       day = hour * 24;
 
-let countDown = new Date('6 7, 2026 09:00:00').getTime(),
+let countDown = new Date('7 12, 2027 09:00:00').getTime(),
     x = setInterval(function() {    
 
       let now = new Date().getTime(),  
